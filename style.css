@@ -23,9 +23,9 @@ height:15%;
 #side
 {
 background-color:dodgerblue;
-width:17%;
+width:15%;
 height:85%;
-float:right;
+float:left;
 }
 
 #main
@@ -33,5 +33,5 @@ float:right;
 background-color:fuchsia;
 width:85%;
 height:85%;
-float:left;
+float:right;
 }
